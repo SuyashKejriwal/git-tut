@@ -1,2 +1,5 @@
 hello from master branch
-edited text in master branch
+
+edited text written in thirsty branch
+
+second edit in thirsty branch
